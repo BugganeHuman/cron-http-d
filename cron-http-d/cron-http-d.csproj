@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-cron_http_d-ed96b299-44c6-4ee4-9ce6-5617c54a9779</UserSecretsId>
     <RootNamespace>cron_http_d</RootNamespace>
+	<OutputType>WinExe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
