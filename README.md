@@ -1,0 +1,1 @@
+cron http(only GET) daemon
