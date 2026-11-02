@@ -1,0 +1,4 @@
+{
+  "Interval": 30,
+  "Endpoint": "https://oddities.onrender.com/api/ping/"
+}
